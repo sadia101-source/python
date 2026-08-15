@@ -216,7 +216,7 @@ while running:
         if keys[pygame.K_LEFT]:
             movement.x -= 1
 
-        if keys[pygame.K_KP_0]:
+        if keys[pygame.K_RIGHT]:
             movement.x += 1
 
         if movement.length() > 0:
