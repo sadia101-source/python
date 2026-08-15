@@ -6,8 +6,6 @@ This is where I keep the things I create with **Python** — from small experime
 
 ## 🎮 Python Games
 
-A collection of games I've made using Python.
-
 Some projects may be simple experiments, while others might be more complete games. The goal is to learn, experiment, and have fun building them.
 
 ## 🛠️ Other Python Projects
