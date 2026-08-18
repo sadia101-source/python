@@ -249,6 +249,7 @@ createNewPacman();
 createGhosts();
 gameLoop();
 
+//movement instructions.
 window.addEventListener("keydown", (event) => {
     let k = event.keyCode;
     setTimeout(() => {
